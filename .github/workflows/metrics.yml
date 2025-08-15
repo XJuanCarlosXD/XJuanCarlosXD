@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
-        with:
+        env:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           template: classic
