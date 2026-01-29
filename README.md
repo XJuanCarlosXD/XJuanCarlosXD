@@ -3,15 +3,43 @@
 **Developer | 🚀 Blockchain Enthusiast | 🧠 Problem Solver | 🎯 Always learning**
 
 ---
+## 🤖 AI-Powered Bots & Scalable Systems
+
+I specialize in designing and building intelligent bots for **WhatsApp, Telegram, and Web platforms**, powered by **LLM-based artificial intelligence**.
+
+I have developed and deployed production-ready bots for:
+- 🍽️ Restaurants (orders, reservations, customer support)
+- 🌐 Internet service sales companies
+- 🦷 Dental clinics (appointment scheduling and client follow-ups)
+- 🏢 Businesses using **appbot.do** as an automation and conversational platform
+
+Beyond chatbots, I have strong experience building **end-to-end systems for cooperatives and businesses**, including:
+- 💰 Savings and withdrawals management
+- 🧾 Automated billing and invoicing
+- 📊 Sales tracking and reporting
+- 🔄 Fully integrated business workflows
+
+---
+
+## 🌐 Web & System Architecture Experience
+
+I bring solid expertise in **web design and development**, with advanced skills using **React** and **Angular**, delivering scalable and user-focused applications.
+
+I am specialized in:
+- 🧠 Designing and implementing **AI-driven chatbots**
+- 🔌 Real-time communication using **WebSockets**
+- 🐍 Backend services in **Python**
+- 🚀 Deploying web-based bots via **CDN-backed architectures**
+
+My work includes building full-featured **blockchain explorers** such as **Pocket Network Explorer**, as well as numerous high-scale websites for different companies—consistently meeting technical requirements and business expectations in large, production environments.
+
+---
 
 ### 📊 GitHub Stats & Languages
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=XJuanCarlosXD&show_icons=true&count_private=true&theme=tokyonight" height="175" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XJuanCarlosXD&layout=compact&langs_count=10&theme=tokyonight" height="175" />
 </p>
-
----
-
 
 ---
 
