@@ -1,50 +1,35 @@
 # 👋 Hi there, I'm Juan Carlos  
 
-💻 Developer | 🚀 Blockchain Enthusiast | 🧠 Problem Solver | 🎯 Always learning  
+**Developer | 🚀 Blockchain Enthusiast | 🧠 Problem Solver | 🎯 Always learning**
 
 ---
 
-## 📊 GitHub Overview  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XJuanCarlosXD&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XJuanCarlosXD&layout=compact&langs_count=10&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=XJuanCarlosXD&theme=tokyonight&hide_border=true)
+### 📊 GitHub Stats & Languages
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=XJuanCarlosXD&show_icons=true&count_private=true&theme=tokyonight" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XJuanCarlosXD&layout=compact&langs_count=10&theme=tokyonight" height="175" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=XJuanCarlosXD&theme=tokyonight&no-frame=true&column=7)
 
 ---
 
-## 📈 GitHub Metrics (Deep Insights)  
-![Metrics](https://metrics.lecoq.io/XJuanCarlosXD?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&languages=1&languages.limit=10&languages.colors=github&languages.details=bytes-size,percentage&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&isocalendar=1&isocalendar.duration=full-year&habits=1&habits.days=14&habits.facts=1&habits.charts=1&people=1&people.limit=24&followup=1&stargazers=1&stars=1&issues=1&pull_requests=1&discussions=1&reactions=1&notable=1&theme=tokyonight)
+### 🚀 Tech Stack  
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Blockchain** | `Cosmos SDK` · `Injective` · `Ethereum` · `Story Protocol` · `dYdX` · `Solana` |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 ---
 
-## 🧠 Contribution Graph  
+### 🧠 Contribution Graph  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XJuanCarlosXD&theme=tokyo-night)
 
 ---
 
-## 🚀 Tech Stack  
-**Languages**  
-- JavaScript · TypeScript · Python · Dart
-
-**Frameworks & Platforms**  
-- Next.js · Django · Flutter · React Native · NodeJS
-
-**Blockchain**  
-- Cosmos SDK · Injective · Ethereum · Story Protoco · DYDX · Solana
-
-**DevOps & Tools**  
-- Docker · Firebase · GitHub Actions · Linux  
-
----
-
-## 📬 Connect  
+### 📬 Connect  
 ⭐️ From [XJuanCarlosXD](https://github.com/XJuanCarlosXD)
